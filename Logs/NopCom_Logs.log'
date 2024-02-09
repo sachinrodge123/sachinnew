@@ -1,0 +1,27 @@
+2024-02-04 09:28:53,378 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-04 09:28:53,379 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:28:53,379 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-04 09:28:54,216 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-04 09:28:54,414 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-04 09:28:59,251 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-04 09:28:59,252 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-04 09:28:59,252 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-04 09:28:59,680 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-04 09:29:01,240 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Test_case test_user_login_params_004 is Passed 
+2024-02-04 09:29:01,241 : INFO : Test_Login_Params : test_user_login_params_004 : 63 : Test_case test_user_login_params_004 is Completed 
+2024-02-04 09:29:32,600 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:32,601 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:29:42,832 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:42,832 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:29:53,450 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:53,451 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:30:18,681 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:30:18,681 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:30:38,996 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:30:38,997 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:37:16,974 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:37:16,975 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:37:46,407 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:37:46,407 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:38:13,409 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:38:13,409 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
